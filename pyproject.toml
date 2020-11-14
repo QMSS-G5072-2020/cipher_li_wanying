@@ -4,6 +4,10 @@ version = "0.1.0"
 description = "Python package that contains the cipher function!"
 authors = ["Wanyingli <wl2722@columbia.edu>"]
 license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/QMSS-G5072-2020/cipher_li_wanying"
+repository = "https://github.com/QMSS-G5072-2020/cipher_li_wanying"
+
 
 [tool.poetry.dependencies]
 python = "^3.8"
